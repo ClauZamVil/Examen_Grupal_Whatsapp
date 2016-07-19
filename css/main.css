@@ -1,0 +1,30 @@
+.container-fluid {
+	max-width: 100%;
+}
+
+.foto-inicial img {
+	height: 20%;
+	width: 20%;
+	margin-left: 0;
+}
+.foto img {
+	height: 100%;
+	width: 100%;
+}
+
+.contactos h2 {
+	font-family: Arial;
+	font-size: 20px;
+}
+
+.form-group {
+	width: 100%;
+}
+
+.fecha time {
+	margin-bottom: 50px;
+}
+
+.fecha {
+	margin-top: 50%;
+}
